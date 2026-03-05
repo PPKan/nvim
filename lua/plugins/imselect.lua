@@ -4,7 +4,7 @@ return {
     config = function()
       require('im_select').setup {
         default_im_select = '1033',
-        default_command = '~\\scoop\\apps\\im-select\\1.0.1\\im-select.exe',
+        default_comman = '~\\scoop\\apps\\im-select\\1.0.2\\im-select.exe',
 
         set_default_events = { 'VimEnter', 'FocusGained', 'InsertLeave' },
         set_previous_events = { 'FocusGained', 'InsertEnter' },
