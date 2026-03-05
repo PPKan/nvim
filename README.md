@@ -26,7 +26,7 @@ scoop install im-select
 
 ## Copy the repo
 ```powershell
-git clone https://github.com/PPKan/nvim-imselect-demo.git $env:localappdata/nvim
+git clone https://github.com/PPKan/nvim.git $env:localappdata/nvim
 ```
 
 ## neovim LAZY initialization
